@@ -27,5 +27,6 @@ jshintPlugin.reporter = reporters.reporter;
 
 // export the extractor
 jshintPlugin.extract = extract;
+jsHintPlugin.makeLint = makeLint;
 
 module.exports = jshintPlugin;
